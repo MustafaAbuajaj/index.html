@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Awareness for College Students</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            color: #003366;
+        }
+        .warning {
+            color: red;
+            font-weight: bold;
+        }
+        footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>Phishing Awareness: Stay Safe Online at College</header>
+    <div class="container">
+        <h2>What is Phishing?</h2>
+        <p>Phishing is a cyberattack where hackers impersonate legitimate sources to steal sensitive information, such as passwords, financial details, and personal data. College students are prime targets due to frequent online interactions.</p>
+        
+        <h2>How to Spot a Phishing Email</h2>
+        <ul>
+            <li class="warning">"Urgent action required" emails about tuition, grades, or student loans</li>
+            <li>Fake emails pretending to be from your university or professors</li>
+            <li>Poor grammar and spelling mistakes</li>
+            <li>Suspicious links or attachments</li>
+            <li>Requests for login credentials or personal data</li>
+        </ul>
+        
+        <h2>Common Phishing Scams for Students</h2>
+        <ul>
+            <li class="warning">Fake internship or job offers requesting personal details</li>
+            <li>Scam scholarship emails asking for banking information</li>
+            <li>Fake campus Wi-Fi login pages stealing passwords</li>
+            <li>Emails claiming issues with student loans or tuition payments</li>
+        </ul>
+        
+        <h2>What to Do If You Suspect Phishing?</h2>
+        <p>Never click on suspicious links. Report phishing emails to your university IT department or email provider. Use multi-factor authentication to protect your accounts.</p>
+    </div>
+    <footer>&copy; 2025 College Cybersecurity Initiative</footer>
+</body>
+</html>
